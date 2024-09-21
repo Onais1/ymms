@@ -34,6 +34,9 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
+.intro-title mb-4{
+  border-radius: 1px solid red;
+}
 .p-r {
   position: relative;
 }
